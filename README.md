@@ -31,13 +31,13 @@ Had a lot of fun building this.
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Adarsh-Raghuwanshi/Cricinfo-Scraping.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Cricinfo-Scraping
 ```
 
 Install dependencies
